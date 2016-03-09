@@ -72,4 +72,5 @@
 
 #Wiki Soon...
 
-#Powered By [@Jack_star](telegram.me/jack_star)
+Powered By 
+[@Jack_star](telegram.me/jack_star)
